@@ -47,7 +47,7 @@
 
 [Syntax](Images/failed1.png)
 
-[Failed Login Alert](images/failed2.png)
+[Failed Login Alert](Images/failed2.png)
 
 
 
