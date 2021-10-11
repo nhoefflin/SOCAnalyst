@@ -39,7 +39,7 @@
 [Windows Activities Report](Images/windows2.png)
 
 
-## Alerts
+### Alerts
 
 
 ## Dashboards
