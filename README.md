@@ -27,7 +27,7 @@ I designed the following reports to assist VSI with quickly identifying specific
 [Severity Report](Images/severity2.png)
 
 
-### Alerts
+## Alerts
 
 
-### Dashboards
+## Dashboards
