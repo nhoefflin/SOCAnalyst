@@ -8,8 +8,11 @@
   - As a SOC analyst, I am tasked with using Splunk to monitor against potential attacks on our systems and applications.
   - The Networking team has provided me with past logs to help me develop baselines and create reports, alerts, and dashboards.
 
-## Reports
-I designed the following reports to assist VSI with quickly identifying specific information:
+## Windows Server Logs
+I designed the following to assist VSI with quickly identifying specific information:
+
+### reports
+
 #### SignatureID
   - A report with a table of signatures and associated SignatureID.
   - This will allow VSI to easily view reports that show the ID number with a specific signature of the Windows activity.
