@@ -44,7 +44,11 @@
 
 #### Failed Windows Activity
 - The average activity per hour is approximately six events. I set an alert to trigger after 15 or more events.
-    
+
+[Syntax](Images/failed1.png)
+
+[Failed Login Alert](images/failed2.png)
+
 
 
 ### Dashboards
