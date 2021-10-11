@@ -43,8 +43,8 @@
 - I designed the following alerts to notify VSI of suspicious activity:
 
 #### Failed Windows Activity
-- Determine an appropriate baseline and threshold for hourly level of failed Windows activity. Create an alert to trigger when the threshold has been reached.
-    - The average activity per hour is approximately six events. I set an alert to trigger after 15 or more events.
+- The average activity per hour is approximately six events. I set an alert to trigger after 15 or more events.
+    
 
 
 ### Dashboards
