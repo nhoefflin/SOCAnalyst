@@ -13,10 +13,18 @@ I designed the following reports to assist VSI with quickly identifying specific
 #### SignatureID
   - A report with a table of signatures and associated SignatureID.
   - This will allow VSI to easily view reports that show the ID number with a specific signature of the Windows activity.
-  
-[Search Syntax](Images/signatureID1.png)
+
+[Syntax](Images/signatureID1.png)
 
 [SignatureID Report](Images/signatureID2.png)
+
+#### Severity
+  - A report that provides the count and percent of the severity.
+  - This will allow VSI to quickly know the severity levels of the Windows logs being viewed.
+
+[Syntax](Images/severity1.png)
+
+[Severity Report](Images/severity2.png)
 
 
 ### Alerts
