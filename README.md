@@ -11,7 +11,7 @@
 ## Windows Server Logs
 I designed the following to assist VSI with quickly identifying specific information:
 
-### reports
+### Reports
 
 #### SignatureID
   - A report with a table of signatures and associated SignatureID.
