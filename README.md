@@ -9,9 +9,10 @@
   - The Networking team has provided me with past logs to help me develop baselines and create reports, alerts, and dashboards.
 
 ## Windows Server Logs
-I designed the following to assist VSI with quickly identifying specific information:
+
 
 ### Reports
+- I designed the following to assist VSI with quickly identifying specific information:
 
 #### SignatureID
   - A report with a table of signatures and associated SignatureID.
