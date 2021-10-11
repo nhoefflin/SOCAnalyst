@@ -13,7 +13,7 @@ I designed the following reports to assist VSI with quickly identifying specific
 #### SignatureID
   - A report with a table of signatures and associated SignatureID.
   - This will allow VSI to easily view reports that show the ID number with a specific signature of the Windows activity.
-[Search Syntax](Images/SignatureID1.png)
+[Search Syntax](Images/signatureID1.png)
 
 
 ### Alerts
