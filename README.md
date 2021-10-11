@@ -26,6 +26,14 @@ I designed the following reports to assist VSI with quickly identifying specific
 
 [Severity Report](Images/severity2.png)
 
+#### Windows Activities
+  - A report that provides a comparison between the success and failure of Windows activities.
+  - This will show VSI if there is a suspicious level of failed activities on their server.
+
+[Syntax](Images/windows1.png)
+
+[Windows Activities Report](Images/windows2.png)
+
 
 ## Alerts
 
