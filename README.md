@@ -12,7 +12,7 @@
 
 
 ### Reports
-- I designed the following to assist VSI with quickly identifying specific information:
+- I designed the following reports to assist VSI with quickly identifying specific information:
 
 #### SignatureID
   - A report with a table of signatures and associated SignatureID.
@@ -40,9 +40,10 @@
 
 
 ### Alerts
+- I designed the following alerts to assist VSI with quickly identifying specific information:
 
 
 ### Dashboards
 
 
-## Apache Logs 
+## Apache Logs
