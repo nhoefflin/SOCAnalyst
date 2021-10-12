@@ -50,7 +50,7 @@
 [Failed Login Alert](Images/failed2.png)
 
 #### Successful Windows Login
--The average activity per hour is approximately 12 events. I set an alert to trigger after 30 or more events.
+- The average activity per hour is approximately 12 events. I set an alert to trigger after 30 or more events.
 
 [Syntax](Images/success1.png)
 
