@@ -60,8 +60,19 @@
 ### Visualizations and Dashboards
   - I designed the following visualizations and added them to a dashboard called "Windows Server Monitoring":
 
-#### Signature field values over time.
-  - [Signature](Images/sig1.png)
+#### Signature Field Values Over Time.
+  - [Signature Field Values](Images/sig1.png)
+
+#### Count of Different Signatures
+  - [Count of Different Signatures](Images/sig2.png)
+
+#### User Field Values Over Time
+  - [User Field Values](Images/user1.png)
+
+#### Count of Different Users
+  - [Count of Different Users](Images/user2.png)
+
+
 
 
 ## Apache Logs
