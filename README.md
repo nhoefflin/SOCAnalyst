@@ -216,3 +216,10 @@
     - [POST Activity](Images/method8.png)
   - THE GET method was used, starting at 6 p.m. and ending at 7 p.m. The peak count was 729.
     - [GET Activity](Images/method7.png)
+
+### Dashboard Analysis for Cluster Map
+  - There is suspicious activity in Ukraine. When zoomed in, we can see the cities in Ukraine are:
+    - Kiev: Count of 872
+      - [Kiev](Images/ukraine1.png)
+    - Kharkiv: Count of 432
+      - [Kharkiv](Images/ukraine2.png)
