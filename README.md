@@ -173,7 +173,13 @@
 
 
 ### Dashboard Analysis for Users
-
+  - The users that have suspicious activity are users A, K, and J.
+    - User A: Started around 1 a.m. and ended at 3 a.m. on March 25th. Peak count was 985.
+      - [User A](Images/user3.png)
+    - User K: Started around 9 a.m. and ended at 11 AM on March 25th.  Peak count was 1,256.
+      - [User K](Images/user4.png)
+    - User J: Started around 11 a.m. and ended at 1 p.m. on March 25th. Peak count was 196.
+      - [User J](Images/user5.png)
 
 ### Dashboard Analysis for Signatures
 
