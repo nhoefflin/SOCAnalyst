@@ -129,3 +129,9 @@
 
 
 # Part 2: Defending the SOC
+  - VSI recently experienced several cyberattacks, likely from their adversary JobeCorp.
+  - Fortunately, your SOC team had set up several monitoring solutions to help VSI quickly identify what was attacked.
+  - These monitoring solutions will also help VSI create mitigation strategies to protect the organization.
+    - I have been provided two log files of suspicious activity:
+      - Windows Server Attack Log
+      - Apache Server Attack Log
