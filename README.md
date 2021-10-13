@@ -124,3 +124,6 @@
 
 #### Different User Agents
   - [Statistical Chart of User Agents](Images/agents1.png)
+
+
+## Defending the SOC
