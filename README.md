@@ -42,12 +42,12 @@
 ### Alerts
   - I designed the following alerts to notify VSI of suspicious activity:
 
-#### Failed Windows Login
+#### Failed Windows Logons
 - The average activity per hour is approximately six events. I set an alert to trigger after 15 or more events.
   - [Syntax](Images/failed1.png)
   - [Failed Login Alert](Images/failed2.png)
 
-#### Successful Windows Login
+#### Successful Windows Logons
 - The average activity per hour is approximately 12 events. I set an alert to trigger after 30 or more events.
   - [Syntax](Images/success1.png)
   - [Successful Login Alert](Images/success2.png)
