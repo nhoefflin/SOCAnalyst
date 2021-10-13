@@ -186,3 +186,17 @@
     - [Dashboard](Images/dashboard1.png)
 
 ## Apache Server Attack Log
+
+### Report Analysis for HTTP Methods
+  - There was a suspicious change in the HTTP POST method, which was raised from 1% to 29%.
+  - POST is used to submit or update information to a web server.
+    - [Baseline HTTP Methods](Images/method5.png)
+    - [HTTP Methods After Attack](Images/method6.png)
+
+### Report Analysis for Referrer Domains
+  - There were no suspicious referrers during the attack.
+
+### Report Analysis for HTTP Response Codes
+  - There are several small changes, but the most prominent is the 404 response code, which increased from 2% to 15%.
+    - [Baseline HTTP Response Codes](Images/response1.png)
+    - [HTTP Response Codes After Attack](Images/response2.png)
