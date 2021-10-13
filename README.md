@@ -160,3 +160,4 @@
 
 
 ### Alert Analysis for Deleted Accounts
+  - There was no suspicious activity of deleted accounts.
