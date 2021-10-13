@@ -12,6 +12,8 @@
     - Apache Server Logs
       - This server is used for VSI's main public-facing website vsi-company.com.
 
+# Part 1: Master of the SOC
+
 ## Windows Server Logs
 
 
