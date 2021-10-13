@@ -27,18 +27,14 @@
 #### Severity
   - A report that provides the count and percent of the severity.
   - This will allow VSI to quickly know the severity levels of the Windows logs being viewed.
-
-[Syntax](Images/severity1.png)
-
-[Severity Report](Images/severity2.png)
+    - [Syntax](Images/severity1.png)
+    - [Severity Report](Images/severity2.png)
 
 #### Windows Activities
   - A report that provides a comparison between the success and failure of Windows activities.
   - This will show VSI if there is a suspicious level of failed activities on their server.
-
-[Syntax](Images/windows1.png)
-
-[Windows Activities Report](Images/windows2.png)
+    - [Syntax](Images/windows1.png)
+    - [Windows Activities Report](Images/windows2.png)
 
 
 ### Alerts
@@ -46,17 +42,13 @@
 
 #### Failed Windows Login
 - The average activity per hour is approximately six events. I set an alert to trigger after 15 or more events.
-
-[Syntax](Images/failed1.png)
-
-[Failed Login Alert](Images/failed2.png)
+  - [Syntax](Images/failed1.png)
+  - [Failed Login Alert](Images/failed2.png)
 
 #### Successful Windows Login
 - The average activity per hour is approximately 12 events. I set an alert to trigger after 30 or more events.
-
-[Syntax](Images/success1.png)
-
-[Successful Login Alert](Images/success2.png)
+  - [Syntax](Images/success1.png)
+  - [Successful Login Alert](Images/success2.png)
 
 
 
