@@ -148,7 +148,7 @@
     - [Failed Activities After Attack](Images/windows4.png)
 
 ### Alert Analysis for Failed Logins
-  - There is some potential suspicious activity for failed activity at 8 a.m. on Weds, March 25th.
+  - There is some potential suspicious activity for failed logins at 8 a.m. on Weds, March 25th.
   - The count of activity is 35 events during this hour. Which can be seen below:
     - [Failed Logins](Images/failed3.png)
 
