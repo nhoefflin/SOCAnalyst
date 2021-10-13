@@ -167,9 +167,9 @@
     - User account was locked out: Started around 1 a.m. and ended at 3 a.m. on March 25th. The peak count was 896.
       - [User Account Locked Out](Images/sig3.png)
     -  An attempt was made to reset a users password: Started around 9 a.m. and ended at 11 a.m. on March 25th. The peak count was 1,258.
-      - [Reset a User Password](Images/sig4.png)
-    - he account was successfully logged on: Started around 11 a.m. and ended at 1 p.m. on March 25th. The peak count was 196.
-      - [Successful Logon](Images/sig5.png)
+        - [Reset a User Password](Images/sig4.png)
+    - The account was successfully logged on: Started around 11 a.m. and ended at 1 p.m. on March 25th. The peak count was 196.
+        - [Successful Logon](Images/sig5.png)
 
 
 ### Dashboard Analysis for Users
