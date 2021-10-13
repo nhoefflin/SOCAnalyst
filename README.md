@@ -181,10 +181,6 @@
     - User J: Started around 11 a.m. and ended at 1 p.m. on March 25th. Peak count was 196.
       - [User J](Images/user5.png)
 
-### Dashboard Analysis for Signatures
-
-
-### Dashboard Analysis for Users
-
-
-### Dashboard Analysis for Users with Statistical Chart
+### Dashboard Analysis for Signatures & Users
+  - Here is a clean dashboard visual of signatures and users discussed above:
+    - [Dashboard](Images/dashboard1.png)
