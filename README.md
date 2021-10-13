@@ -135,3 +135,9 @@
     - I have been provided two log files of suspicious activity:
       - Windows Server Attack Log
       - Apache Server Attack Log
+## Windows Server Attack Log
+
+## Report Analysis for severity
+  - I did detect changes in severity, which indicates an increase in the high severity cases. The percentage change can be seen below:
+    - [Normal Severity](Images/severity3.png)
+    - [Severity After Attack](Images/severity4.png)
