@@ -73,6 +73,12 @@
   - [Count of Different Users](Images/user2.png)
 
 
-
-
 ## Apache Logs
+
+### Reports
+
+#### HTTP Methods
+  - A report that shows a table of the different HTTP methods (GET, POST, HEAD, etc).
+  - This will provide insight into the type of HTTP activity being requested against their web server.
+    - [Syntax](Images/method1.png)
+    - [HTTP Methods Report](Images/method2.png)
