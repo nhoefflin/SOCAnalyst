@@ -100,11 +100,11 @@
 #### Hourly Activity Outside the U.S.
   - The average activity per hour is approximately 80. I set an alert to trigger after 170 or more events.
     - [Syntax](Images/clientip1.png)
-    - [Syntax](Images/clientip2.png)
+    - [ClientIP Outside U.S. Alert](Images/clientip2.png)
 
 #### HTTP POST Method
   - The average activity per hour is approximately two. I set an alert to trigger after 12 or more events.
     - [Syntax](Images/post1.png)
-    - [Syntax](Images/post2.png)
+    - [HTTP POST Method Alert](Images/post2.png)
 
-### Visualizations and Dashboards 
+### Visualizations and Dashboards
