@@ -225,3 +225,11 @@
       - [Kiev](Images/ukraine1.png)
     - Kharkiv: Count of 432
       - [Kharkiv](Images/ukraine2.png)
+
+### Dashboard Analysis for URI Data
+  - There is suspicious activity against the main VSI logon page: /VSI_Account_logon.php which peaked at 1,323 events.
+  - Based on the URI being accessed an attacker may be trying to brute force the VSI logon page.
+    - [URI Data](Images/uri2.png)
+
+### Dashboard Analysis for URI Data, Top Countries and User agents
+  - [Dashboard](Images/dashboard2.png)
