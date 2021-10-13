@@ -161,3 +161,24 @@
 
 ### Alert Analysis for Deleted Accounts
   - There was no suspicious activity of deleted accounts.
+
+### Dashboard Analysis for Time Chart of Signatures
+  - The signatures that have suspicious activity are: User account was locked out, attempt was made to reset a users password, and an account was successfully logged on.
+    - User account was locked out: Started around 1 a.m. and ended at 3 a.m. on March 25th. The peak count was 896.
+      - [User Account Locked Out](Images/sig3.png)
+    -  An attempt was made to reset a users password: Started around 9 a.m. and ended at 11 a.m. on March 25th. The peak count was 1,258.
+      - [Reset a User Password](Images/sig4.png)
+    - he account was successfully logged on: Started around 11 a.m. and ended at 1 p.m. on March 25th. The peak count was 196.
+      - [Successful Logon](Images/sig5.png)
+
+
+### Dashboard Analysis for Users
+
+
+### Dashboard Analysis for Signatures
+
+
+### Dashboard Analysis for Users
+
+
+### Dashboard Analysis for Users with Statistical Chart
