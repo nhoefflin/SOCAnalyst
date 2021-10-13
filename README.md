@@ -18,7 +18,6 @@
 
 
 ### Reports
-  - I designed the following reports to assist VSI with quickly identifying specific information:
 
 #### SignatureID
   - A report with a table of signatures and associated SignatureID.
@@ -78,7 +77,6 @@
 ## Apache Server Log
 
 ### Reports
-  - I designed the following reports to assist VSI with quickly identifying specific information:
 
 #### HTTP Methods
   - A report that shows a table of the different HTTP methods (GET, POST, HEAD, etc).
