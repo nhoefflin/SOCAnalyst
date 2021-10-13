@@ -82,3 +82,29 @@
   - This will provide insight into the type of HTTP activity being requested against their web server.
     - [Syntax](Images/method1.png)
     - [HTTP Methods Report](Images/method2.png)
+
+#### Top 10 Domains
+  - A report that shows the top 10 domains that referred to VSI's website.
+  - This will assist VSI with identifying suspicious referrers.
+    - [Syntax](Images/domain1.png)
+    - [Top Domains Report](Images/domain2.png)
+
+#### HTTP Response Codes
+  - A report that shows the count of the HTTP response codes.
+  - This will provide insight into any suspicious levels of HTTP responses.
+    - [Syntax](Images/http1.png)
+    - [HTTP Response Codes Report](Images/http2.png)
+
+### Alerts
+
+#### Hourly Activity Outside the U.S.
+  - The average activity per hour is approximately 80. I set an alert to trigger after 170 or more events.
+    - [Syntax](Images/clientip1.png)
+    - [Syntax](Images/clientip2.png)
+
+#### HTTP POST Method
+  - The average activity per hour is approximately two. I set an alert to trigger after 12 or more events.
+    - [Syntax](Images/post1.png)
+    - [Syntax](Images/post2.png)
+
+### Visualizations and Dashboards 
