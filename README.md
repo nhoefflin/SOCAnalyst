@@ -108,3 +108,19 @@
     - [HTTP POST Method Alert](Images/post2.png)
 
 ### Visualizations and Dashboards
+  - I designed the following visualization and added them to a dashboard called "Apache WebServer Monitoring:"
+
+#### HTTP Methods Over Time
+  - [HTTP Count by Method](Images/method4.png)
+
+#### Location Based on Client IP
+  - [GeoStats](Images/geo1.png)
+
+#### Count of Different URIs
+  - [Count of URIs](Images/uri1.png)
+
+#### Count of Top 10 Countries
+  - [Top Countries](Images/countries1.png)
+
+#### Different User Agents
+  - [Statistical Chart of User Agents](Images/agents1.png)
