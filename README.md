@@ -147,12 +147,16 @@
     - [Baseline Failed Activities](Images/windows3.png)
     - [Failed Activities After Attack](Images/windows4.png)
 
-### Alert Analysis for Failed Logins
-  - There is some potential suspicious activity for failed logins at 8 a.m. on Weds, March 25th.
+### Alert Analysis for Failed Logons
+  - There is some potential suspicious activity for failed logons at 8 a.m. on Weds, March 25th.
   - The count of activity is 35 events during this hour. Which can be seen below:
-    - [Failed Logins](Images/failed3.png)
+    - [Failed Logons](Images/failed3.png)
 
 ### Alert Analysis for Successful Logons
+  - There is some potential suspicious activity for failed activity at 11 a.m and 12 p.m. on Weds, March 25th.
+  - The count of activity is 196 at 11 a.m. and 77 at 12 p.m. which can be seen below.
+    - [Successful Logons](Images/logon1.png)
+    - [Successful Logons](Images/logon2.png)
 
 
 ### Alert Analysis for Deleted Accounts
