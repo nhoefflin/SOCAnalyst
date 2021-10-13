@@ -21,10 +21,8 @@
 #### SignatureID
   - A report with a table of signatures and associated SignatureID.
   - This will allow VSI to easily view reports that show the ID number with a specific signature of the Windows activity.
-
-[Syntax](Images/signatureID1.png)
-
-[SignatureID Report](Images/signatureID2.png)
+    - [Syntax](Images/signatureID1.png)
+    - [SignatureID Report](Images/signatureID2.png)
 
 #### Severity
   - A report that provides the count and percent of the severity.
