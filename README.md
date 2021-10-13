@@ -210,4 +210,9 @@
   - There was a spike in POST method activity at 8 p.m. on Weds, March 25th, and had a count of 1,296 events.
     - [POST Activity](Images/post3.png)
 
-###
+### Dashboard Analysis for Time Chart of HTTP Methods
+  - There were suspicious activities of the POST and GET method.
+  - The POST method was used, starting at 8 p.m. and ending at 9 p.m. The peak count was 1,296.
+    - [POST Activity](Images/method8.png)
+  - THE GET method was used, starting at 6 p.m. and ending at 7 p.m. The peak count was 729.
+    - [GET Activity](Images/method7.png)
