@@ -60,7 +60,7 @@
 ### Visualizations and Dashboards
   - I designed the following visualizations and added them to a dashboard called "Windows Server Monitoring":
 
-#### A line chart that displays the different signature field values over time.
+#### Signature field values over time.
   - [Signature](Images/sig1.png)
 
 
