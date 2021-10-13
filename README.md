@@ -197,6 +197,6 @@
   - There were no suspicious referrers during the attack.
 
 ### Report Analysis for HTTP Response Codes
-  - There are several small changes, but the most prominent is the 404 response code, which increased from 2% to 15%.
+  - There are several changes, but the most prominent is the 404 response code, which increased from 2% to 15%.
     - [Baseline HTTP Response Codes](Images/response1.png)
     - [HTTP Response Codes After Attack](Images/response2.png)
