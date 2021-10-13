@@ -218,7 +218,9 @@
     - [GET Activity](Images/method7.png)
 
 ### Dashboard Analysis for Cluster Map
-  - There is suspicious activity in Ukraine. When zoomed in, we can see the cities in Ukraine are:
+  - There is suspicious activity in Ukraine:
+    - [Cluster Map](Images/ukraine3.png)
+  - When zoomed in, we can see the cities in Ukraine are:
     - Kiev: Count of 872
       - [Kiev](Images/ukraine1.png)
     - Kharkiv: Count of 432
