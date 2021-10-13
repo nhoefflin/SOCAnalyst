@@ -208,5 +208,6 @@
 
 ### Alert Analysis for HTTP POST Activity
   - There was a spike in POST method activity at 8 p.m. on Weds, March 25th, and had a count of 1,296 events.
+    - [POST Activity](Images/post3.png)
 
 ###
