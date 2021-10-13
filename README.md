@@ -137,7 +137,12 @@
       - Apache Server Attack Log
 ## Windows Server Attack Log
 
-### Report Analysis for severity
-  - I did detect changes in severity, which indicates an increase in the high severity cases. The percentage change can be seen below:
-    - [Normal Severity](Images/severity3.png)
+### Report Analysis for Severity
+  - I did detect changes in severity which indicates an increase in the high severity cases. The percentage change can be seen below:
+    - [Baseline Severity](Images/severity3.png)
     - [Severity After Attack](Images/severity4.png)
+
+### Report Analysis for Failed Activities
+  - I did detect changes in failed windows activities, however, there wasn't a major change in the cumulative failure of events.
+    - [Baseline Failed Activities](Images/windows3.png)
+    - [Failed Activities After Attack](Images/windows4.png)
