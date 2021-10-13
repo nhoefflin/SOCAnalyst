@@ -146,3 +146,13 @@
   - I did detect changes in failed windows activities, however, there wasn't a major change in the cumulative failure of events.
     - [Baseline Failed Activities](Images/windows3.png)
     - [Failed Activities After Attack](Images/windows4.png)
+
+### Alert Analysis for Failed Logins
+  - There is some potential suspicious activity for failed activity at 8 a.m. on Weds, March 25th.
+  - The count of activity is 35 events during this hour. Which can be seen below:
+    - [Failed Logins](Images/failed3.png)
+
+### Alert Analysis for Successful Logons
+
+
+### Alert Analysis for Deleted Accounts
