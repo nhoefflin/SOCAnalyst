@@ -75,7 +75,7 @@
   - [Count of Different Users](Images/user2.png)
 
 
-## Apache Server Logs
+## Apache Server Log
 
 ### Reports
 
