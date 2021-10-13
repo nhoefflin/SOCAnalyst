@@ -50,6 +50,11 @@
   - [Syntax](Images/success1.png)
   - [Successful Login Alert](Images/success2.png)
 
+#### A User Account Was Deleted
+  - The average activity per hour is approximately 13 events. I set an alert to trigger after 30 or more events.  
+    - [Syntax](Images/deleted1.png)
+    - [Deleted Account Alert](Images/deleted2.png)
+
 
 
 ### Dashboards
