@@ -58,7 +58,7 @@
 
 
 ### Visualizations and Dashboards
-  - I designed the following visualizations and added them to a dashboard called "Windows Server Monitoring":
+  - I designed the following visualizations and added them to a dashboard called "Windows Server Monitoring:"
 
 #### Signature Field Values Over Time.
   - [Signature Field Values](Images/sig1.png)
